@@ -1,0 +1,24 @@
+{
+  "name": "temp-nuxt-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "generate:gh-pages": "GH_PAGES=true nuxt generate",
+    "preview": "nuxt preview",
+    "preview:dist": "serve dist",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.1.3",
+    "vue": "^3.5.22",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/node": "^24.7.2",
+    "tailwindcss": "^4.1.14"
+  }
+}
