@@ -4,18 +4,31 @@ export const cvData = {
     title: "Senior Software Developer",
   },
 
-  contact: {
-    email: "md.sadique32@gmail.com",
-    location: "Kolkata, West Bengal, India",
-    github: {
-      url: "https://github.com/mdsadiqueinam",
-      display: "github.com/mdsadiqueinam",
+  contacts: [
+    {
+      type: "email",
+      value: "md.sadique32@gmail.com",
+      icon: "envelope",
+      link: "mailto:md.sadique32@gmail.com",
     },
-    linkedin: {
-      url: "https://www.linkedin.com/in/md32/",
-      display: "linkedin.com/in/md32",
+    {
+      type: "location",
+      value: "Kolkata, West Bengal, India",
+      icon: "map-pin",
     },
-  },
+    {
+      type: "github",
+      value: "github.com/mdsadiqueinam",
+      icon: "github",
+      link: "https://github.com/mdsadiqueinam",
+    },
+    {
+      type: "linkedin",
+      value: "linkedin.com/in/md32",
+      icon: "linkedin",
+      link: "https://www.linkedin.com/in/md32/",
+    },
+  ],
 
   skills: [
     { name: "JavaScript", color: "blue" },

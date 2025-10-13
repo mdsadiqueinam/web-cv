@@ -19,6 +19,7 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "@types/node": "^24.7.2",
-    "tailwindcss": "^4.1.14"
+    "tailwindcss": "^4.1.14",
+    "vite-svg-loader": "^5.1.0"
   }
 }
