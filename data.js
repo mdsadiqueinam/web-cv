@@ -66,7 +66,7 @@ export const cvData = {
   projects: [
     {
       name: "Success.co",
-      period: "April 2025 - Present",
+      period: "April 2025 - November 2025",
       description:
         "Handling full-stack development for a real-time project using Vue.js and Node.js. Responsibilities cover the entire feature lifecycle, including frontend UI, backend API development, and managing PostgreSQL database migrations.",
     },
@@ -90,7 +90,7 @@ export const cvData = {
     },
     {
       name: "Teamwork",
-      period: "Nov 2022 - Apr 2024",
+      period: "Nov 2023 - Apr 2024",
       description:
         "Converted the Teamwork Project Management Tool's legacy settings pages from iframes into modern, maintainable Vue.js components, building them from scratch to match existing designs.",
     },
