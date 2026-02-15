@@ -103,11 +103,11 @@ export const cvData = {
        location: "West Bengal, India",
        period: "2024 - 2027",
      },
-    {
-      degree: "Diploma in Electrical Engineering",
-      institution: "Santiniketan Institute of Polytechnic",
-      location: "West Bengal, India",
-      period: "2019 - 2022",
-    },
+    // {
+    //   degree: "Diploma in Electrical Engineering",
+    //   institution: "Santiniketan Institute of Polytechnic",
+    //   location: "West Bengal, India",
+    //   period: "2019 - 2022",
+    // },
   ],
 };
