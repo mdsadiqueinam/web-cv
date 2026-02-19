@@ -97,17 +97,17 @@ export const cvData = {
   ],
 
   education: [
-    {
-       degree: "B.Tech in Computer Science & Engineering",
-       institution: "Seacom Skills University",
-       location: "West Bengal, India",
-       period: "2024 - 2027",
-     },
     // {
-    //   degree: "Diploma in Electrical Engineering",
-    //   institution: "Santiniketan Institute of Polytechnic",
-    //   location: "West Bengal, India",
-    //   period: "2019 - 2022",
-    // },
+    //    degree: "B.Tech in Computer Science & Engineering",
+    //    institution: "Seacom Skills University",
+    //    location: "West Bengal, India",
+    //    period: "2024 - 2027",
+    //  },
+    {
+      degree: "Diploma in Electrical Engineering",
+      institution: "Santiniketan Institute of Polytechnic",
+      location: "West Bengal, India",
+      period: "2019 - 2022",
+    },
   ],
 };
